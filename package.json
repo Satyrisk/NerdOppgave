@@ -1,0 +1,22 @@
+{
+  "name": "nerdoppgave",
+  "version": "1.0.0",
+  "description": "nerdoppgave",
+  "main": "server.js",
+  "scripts": {
+    "test": "run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Satyrisk/NerdOppgave.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Leo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Satyrisk/NerdOppgave/issues"
+  },
+  "homepage": "https://github.com/Satyrisk/NerdOppgave#readme"
+}
