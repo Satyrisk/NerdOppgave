@@ -1,0 +1,22 @@
+
+Hente forandringer
+git pull (remote) (branch)
+
+
+git add (fil)
+git add --patch . - Du bestemmer hvilke linjer kode som skal commites
+
+
+git status - sjekk hva du lagt til
+
+git diff --cached - Se hva du har lagt til STAGE
+
+git commit -m "Hei"
+git push (remote) (branch)
+
+# Se alle branches
+git branch -a
+
+#Se Alle remotes
+git remote -v
+
